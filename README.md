@@ -1,4 +1,4 @@
-# SQL-Portfolio-Project 1
+# SQL-Project 1
 
 This project was executed using PostgreSQL, it includes 
 the use of a housing data table. The purpose of the project is to 
